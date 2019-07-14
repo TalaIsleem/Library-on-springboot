@@ -38,7 +38,7 @@ import com.fasterxml.jackson.annotation.ObjectIdGenerators;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.annotation.JsonSerialize;
 
-import io.bookLibrary.DTOs.BookRequest;
+import io.booksLibrary.DTOs.BookRequest;
 
 @Entity
 @Inheritance(strategy = InheritanceType.JOINED)

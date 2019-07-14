@@ -1,4 +1,4 @@
-package io.bookLibrary.DTOs;
+package io.booksLibrary.DTOs;
 
 import io.booksLibrary.entities.Book;
 

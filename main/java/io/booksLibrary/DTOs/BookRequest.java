@@ -1,4 +1,4 @@
-package io.bookLibrary.DTOs;
+package io.booksLibrary.DTOs;
 
 import java.sql.Date;
 import java.text.SimpleDateFormat;

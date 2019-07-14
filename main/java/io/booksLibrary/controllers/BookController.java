@@ -17,8 +17,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-import io.bookLibrary.DTOs.BookRequest;
-import io.bookLibrary.DTOs.BookResponse;
+import io.booksLibrary.DTOs.BookRequest;
+import io.booksLibrary.DTOs.BookResponse;
 import io.booksLibrary.entities.Author;
 import io.booksLibrary.entities.Book;
 import io.booksLibrary.entities.Novel;
